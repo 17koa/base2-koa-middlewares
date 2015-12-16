@@ -1,14 +1,20 @@
-# base2-express-middlewares
+# base2-koa-middlewares
 
 ## Install
 
-    [sudo] npm install --save base2-express-middlewares
+    [sudo] npm install --save base2-koa-middlewares
 
 ## Usages
 
 ```
-app.mount_plugins('node_modules/base2-express-middlewares/lib');
+app.mount_plugins('node_modules/base2-koa-middlewares/lib');
 ```
+
+## Features
+
+- log(已实现)
+- view(已实现)
+- www(已实现)
 
 ## Contributing
 
