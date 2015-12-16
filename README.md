@@ -15,6 +15,9 @@ app.mount_plugins('node_modules/base2-koa-middlewares/lib');
 - log(已实现)
 - view(已实现)
 - www(已实现)
+- favicon（todo）
+- body-parser（todo）
+- cookie-parser（todo）
 
 ## Contributing
 
