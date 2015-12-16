@@ -15,9 +15,10 @@ app.mount_plugins('node_modules/base2-koa-middlewares/lib');
 - log(已实现)
 - view(已实现)
 - www(已实现)
-- favicon（todo）
-- body-parser（todo）
-- cookie-parser（todo）
+- json(已实现)
+- [favicon](https://github.com/koajs/favicon)（已实现）
+- [body-parser](https://github.com/koajs/bodyparser)（已实现）
+- cookie-parser（koa内置，不需要实现）
 
 ## Contributing
 
